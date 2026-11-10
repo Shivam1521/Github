@@ -1,0 +1,6 @@
+@SmartScanAPI_HostAddress = http://localhost:5125
+
+# GET {{SmartScanAPI_HostAddress}}/weatherforecast/
+# Accept: application/json
+
+###

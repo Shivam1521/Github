@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CSwi6/xWv5w=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\trunk_updated\\SmartScanAPI\\Logger\\Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sbm33\\.nuget\\packages\\nlog\\6.0.3\\nlog.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

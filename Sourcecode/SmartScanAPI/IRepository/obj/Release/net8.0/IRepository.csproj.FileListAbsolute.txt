@@ -1,0 +1,15 @@
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\bin\Release\net8.0\IRepository.deps.json
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\bin\Release\net8.0\IRepository.dll
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\bin\Release\net8.0\IRepository.pdb
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\bin\Release\net8.0\Entities.dll
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\bin\Release\net8.0\Entities.pdb
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\obj\Release\net8.0\IRepository.csproj.AssemblyReference.cache
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\obj\Release\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\obj\Release\net8.0\IRepository.AssemblyInfoInputs.cache
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\obj\Release\net8.0\IRepository.AssemblyInfo.cs
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\obj\Release\net8.0\IRepository.csproj.CoreCompileInputs.cache
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\obj\Release\net8.0\IReposit.1D40EF52.Up2Date
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\obj\Release\net8.0\IRepository.dll
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\obj\Release\net8.0\refint\IRepository.dll
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\obj\Release\net8.0\IRepository.pdb
+D:\Projects\trunk_updated\SmartScanAPI\IRepository\obj\Release\net8.0\ref\IRepository.dll
